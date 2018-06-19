@@ -23,6 +23,6 @@
 |6/16/18|National Treasure|
 |6/18/18|Ghostbusters|
 |6/18/18|Moana|
-|6/19/18|Good Morning Vietnam|
+|6/19/18|Good Morning, Vietnam|
 |6/19/18|Jurassic World|
 |6/21/18|Jurassic World: Fallen Kingdom|
