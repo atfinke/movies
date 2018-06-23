@@ -10,6 +10,7 @@
 |5/27/18|Indiana Jones and the Kingdom of the Crystal Skull|
 |5/28/18|Indiana Jones and the Raiders of the Lost Ark|
 |5/31/18|Indiana Jones and The Last Crusade|
+|6/1/18|Deadpool 2|
 |6/2/18|Coco|
 |6/3/18|Coco|
 |6/9/18|Thor: Ragnarok|
@@ -26,3 +27,4 @@
 |6/19/18|Good Morning, Vietnam|
 |6/19/18|Jurassic World|
 |6/21/18|Jurassic World: Fallen Kingdom|
+|6/22/18|Incredibles 2|
