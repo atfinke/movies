@@ -28,3 +28,5 @@
 |6/19/18|Jurassic World|
 |6/21/18|Jurassic World: Fallen Kingdom|
 |6/22/18|Incredibles 2|
+|6/23/18|Die Hard 2|
+|6/23/18|Kingsman: The Golden Circle|
