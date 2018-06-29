@@ -30,3 +30,7 @@
 |6/22/18|Incredibles 2|
 |6/23/18|Die Hard 2|
 |6/23/18|Kingsman: The Golden Circle|
+|6/25/18|Jurassic Park|
+|6/26/18|The Lost World: Jurassic Park|
+|6/28/18|Jurassic Park III|
+|6/28/18|Ghostbusters 2|
