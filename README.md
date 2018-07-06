@@ -34,3 +34,5 @@
 |6/26/18|The Lost World: Jurassic Park|
 |6/28/18|Jurassic Park III|
 |6/28/18|Ghostbusters 2|
+|7/5/18|Paddington 2|
+|7/5/18|Toy Story 3|
