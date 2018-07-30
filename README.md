@@ -38,3 +38,5 @@
 |7/5/18|Toy Story 3|
 |7/14/18|Incredibles 2|
 |7/29/18|Get Out|
+|7/29/18|Kill Bill: Volume 1|
+|7/29/18|Kill Bill: Volume 2|
