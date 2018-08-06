@@ -40,3 +40,6 @@
 |7/29/18|Get Out|
 |7/29/18|Kill Bill: Volume 1|
 |7/29/18|Kill Bill: Volume 2|
+|8/4/18|The Dark Knight|
+|8/5/18|Batman Begins|
+|8/5/18|The Dark Knight Rises|
