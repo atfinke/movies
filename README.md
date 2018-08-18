@@ -43,3 +43,6 @@
 |8/4/18|The Dark Knight|
 |8/5/18|Batman Begins|
 |8/5/18|The Dark Knight Rises|
+|8/15/18|Mission: Impossible – Fallout|
+|8/17/18|The Lawnmower Man|
+|8/17/18|Lawnmower Man 2: Beyond Cyberspace|
