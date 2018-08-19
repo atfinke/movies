@@ -46,3 +46,5 @@
 |8/15/18|Mission: Impossible – Fallout|
 |8/17/18|The Lawnmower Man|
 |8/17/18|Lawnmower Man 2: Beyond Cyberspace|
+|8/18/18|Three Billboards Outside Ebbing, Missouri|
+|8/18/18|Watchmen|
